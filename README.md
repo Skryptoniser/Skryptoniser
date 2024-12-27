@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skryptoniser
 - 👀 I’m interested in JAVA Programming.
-- 🌱 I’m currently in the final year of Btech IT course.
+- 🌱 I completed my Btech IT course.
 - 📫 How to reach me :_ email:- lkpkjkbk@gmail.com
 
 <!---
